@@ -1,0 +1,61 @@
+body{
+    /*background-color: bisque;
+    /*margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;*/
+    margin: 0;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+.hobby-row{
+    width: 50%;
+    margin: 130px auto 100px auto;
+    text-align: left;
+}
+.top-container{
+    background-color: #FFF9CA;
+    position: relative;
+    padding-top: 200px;
+}
+.middle-container{
+   background-color: #FFDEB4;
+}
+.bottom-container{
+    background-color: #E7F6F2;
+    padding: 50px 0 20px;
+}
+.bottom-cloud-image{
+    position: absolute;
+    left: 400px;
+    top: 450px;
+}
+.top-cloud-image{
+    position: absolute;
+    right: 350px;
+    top: 100px;
+}
+.sneaker-image{
+
+    width: 30%;
+    float:left;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.game-image{
+    width: 30%;
+    height: 30%;
+    float:right;
+    margin-right: 30px;
+  
+}
+.web-dev{
+    width: 30%;
+    float:right;
+    margin-right: 30px;
+}
